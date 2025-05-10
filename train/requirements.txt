@@ -1,0 +1,14 @@
+numpy
+pandas
+torch
+triton
+seaborn
+transformers
+peft
+trl
+ninja
+boto3==1.35.95
+python-dotenv
+bitsandbytes
+clearml
+liger-kernel
