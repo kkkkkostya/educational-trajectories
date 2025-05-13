@@ -1,1 +1,0 @@
-streamlit run streamlit_app.py --server.maxUploadSize=N -- --max_file_size=N

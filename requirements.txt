@@ -1,8 +1,9 @@
 numpy
 pandas
 torch
-#triton
 seaborn
+streamlit
+streamlit-tags
 #transformers
 #peft
 #trl
@@ -12,5 +13,3 @@ seaborn
 #bitsandbytes
 #clearml
 #liger-kernel
-streamlit
-streamlit-tags
