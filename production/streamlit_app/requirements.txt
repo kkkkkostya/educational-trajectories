@@ -1,0 +1,6 @@
+streamlit
+streamlit-tags
+pandas
+numpy
+huggingface_hub
+carte-ai

@@ -1,0 +1,17 @@
+## Hello, hello!👋
+<br>
+<p style="font-size:18px;">This page contains a brief description of this application, its main 
+functions and capabilities. Over time, this page will be updated and filled 
+with new content, so check back here from time to time🤗</p>
+<br>
+
+### Page description:
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>
+    <div style="font-size: 18px; font-weight: bold; color: black;">🔹 <a href="prediction_scores_page" target="_self">Scores prediction</a></div>
+    <div style="margin-left: 1.8em; font-size: 16px; color: gray;">This section provides the ability to fill in gaps in student grade sheets using a machine learning model.
+
+Currently, csv, excel and txt formats are supported and a choice of models is also available (it will be expanded over time).</div>
+  </li>
+</ul>
