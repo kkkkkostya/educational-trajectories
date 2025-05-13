@@ -1,0 +1,7 @@
+streamlit
+streamlit-tags
+streamlit_lottie
+pandas
+numpy
+requests
+xlsxwriter

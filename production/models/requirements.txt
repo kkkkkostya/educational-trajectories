@@ -1,0 +1,8 @@
+pandas
+pydantic
+uvicorn
+fastapi
+numpy
+requests
+huggingface_hub
+carte-ai

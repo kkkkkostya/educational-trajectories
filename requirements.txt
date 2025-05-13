@@ -1,0 +1,15 @@
+numpy
+pandas
+torch
+seaborn
+streamlit
+streamlit-tags
+#transformers
+#peft
+#trl
+#ninja
+#boto3==1.35.95
+#python-dotenv
+#bitsandbytes
+#clearml
+#liger-kernel
