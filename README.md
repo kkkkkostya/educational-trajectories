@@ -4,8 +4,8 @@
 - ```Для работы веб-приложения необходимо локально запустить его.```
   
 Оно состоит из двух небольших сервисов:
->  Непосредственно [веб-приложение](https://github.com/kkkkkostya/educational-trajectories/tree/e3b65c17cdbb33ab13dd94c2b3cf0cb754983b07/production/streamlit-service) <br/>
->  [FastApi сервис](https://github.com/kkkkkostya/educational-trajectories/tree/main/production/models/model-api) для работы моделей
+>  Непосредственно [веб-приложение](https://github.com/kkkkkostya/educational-trajectories/tree/e3b65c17cdbb33ab13dd94c2b3cf0cb754983b07/production/streamlit-service) (command to run: "streamlit run streamlit_app.py") <br/>
+>  [FastApi сервис](https://github.com/kkkkkostya/educational-trajectories/tree/main/production/models/model-api) для работы моделей (command to run: python -m model_api.model.api)
 - ```После запуска приложения пользователю доступны разделы:```<br/>
   - ```Welcone info (общая информация о проекте и разделах придложения)```
   - ```Scores prediction (основная страница для предсказания пропущенных значений в данных)```
