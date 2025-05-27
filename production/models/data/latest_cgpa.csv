@@ -1,0 +1,144 @@
+gender,it_program,current_res,fam_size,guardian,health_stat,travel_time,study_time,mot_edu,fat_edu,fam_rel_qual,parents_cohab_stat,add_type,current_stat,extra_curricular,hang_out_friends,current_cgpa,prev_edu,current_sem,calc,pf,oop,dsa,os,matric_or_o,fsc_or_a,sem_1_sgpa,sem_2_sgpa,sem_3_sgpa,sem_4_sgpa,sem_5_sgpa,sem_6_sgpa,sem_7_sgpa,sem_8_sgpa
+Male,CS,Home,GT3,Father,3,3,1,3,3,4,Together,Urban,Job,No,4,2.19,Matriculation and FSc/ICS,8,D,B,D,C+,D,83,65,2.91,3.18,1.24,1.81,1.34,2.16,2.08,
+Male,CS,Home,GT3,Father,4,1,2,4,4,5,Abroad,Urban,Full time student,Yes,4,3.09,Matriculation and FSc/ICS,8,B+,B+,C+,A-,C+,88,64,2.77,3.34,2.62,2.5,3.06,2.8,3.33,
+Male,DS,Home,GT3,Father,4,1,2,4,4,4,Together,Urban,Full time student,No,3,2.46,Matriculation and FSc/ICS,6,B,A-,B-,D,B,92,78,3.14,2.41,1.51,2.37,2.59,,,
+Female,CS,Home,GT3,Father,4,1,3,4,4,4,Together,Urban,Job,Yes,1,3.61,O and A levels,8,A,A,C+,A-,A,90,90,4,3.33,3.67,3.71,3.5,3.67,3.43,
+Male,CS,Home,GT3,Father,5,4,2,3,3,3,Together,Urban,Full time student,Yes,5,2.17,Matriculation and FSc/ICS,8,B+,C+,D,B+,C+,50,60,3.33,3,2.8,3,2.4,2.4,2.18,
+Male,CS,Home,GT3,Father,5,3,2,4,4,5,Together,Urban,Full time student,Yes,3,2.22,O and A levels,8,A-,B+,B+,C+,B-,88,82,2.35,2.92,3.01,2.73,2.56,2.47,1.55,
+Male,CS,Home,GT3,Father,4,1,4,4,4,4,Together,Urban,Full time student,No,3,3.5,Matriculation and FSc/ICS,8,A,A,B+,B,B,91,79,3.39,3.6,3.13,3.5,3.4,3.55,3.5,
+Male,CS,Home,GT3,Father,4,3,4,3,4,4,Together,Urban,Full time student,No,4,3.84,O and A levels,8,A-,A,A,A-,A,80,75,3.76,3.85,3.77,3.78,3.78,3.8,3.87,
+Male,CS,Home,GT3,Father,5,1,3,4,4,5,Abroad,Urban,Full time student,Yes,3,2.5,Matriculation and FSc/ICS,8,C+,B+,C+,C+,C+,70,60,3.07,3.04,2.2,2.4,2.45,2.4,2.5,
+Male,CS,Home,GT3,Father,5,3,2,4,4,5,Together,Urban,Job,No,4,3.55,Matriculation and FSc/ICS,8,A,A,B,A,B,95,90,3.75,3.51,3.96,3.24,3.25,3.73,3.41,
+Male,CS,Home,GT3,Father,4,1,1,3,3,1,Abroad,Urban,Full time student,Yes,1,3.34,Matriculation and FSc/ICS,8,B+,A-,A,A-,B+,78,78,3.1,3.6,3.3,3.2,3.2,3.3,3.7,
+Male,CS,Home,GT3,Father,1,2,1,4,4,4,Together,Urban,Full time student,No,1,3,Matriculation and FSc/ICS,8,B+,A,A,D,A,53,52,3.23,3.5,3.08,3.7,2.1,2.3,1.68,
+Female,DS,Home,GT3,Father,5,1,3,3,4,5,Together,Urban,Full time student,Yes,4,2.79,Matriculation and FSc/ICS,6,B+,B-,B,B-,C+,92,95,3.33,3.06,1.67,2.37,2.88,,,
+Male,CS,Home,GT3,Father,5,3,2,4,4,1,Together,Urban,Job,No,4,3.02,Matriculation and FSc/ICS,8,B,C,A,B,A,80,55,3.4,3,3,3,3,3,3,3.02
+Male,DS,Home,LT3,Father,3,3,2,0,4,5,Abroad,Urban,Full time student,Yes,5,2.54,Matriculation and FSc/ICS,6,B-,D,B,A-,B+,92,63,2.67,2.67,1.5,2.2,2.96,,,
+Male,CS,Hostel,LT3,Father,3,2,3,3,4,4,Together,Urban,Internship,Yes,4,2.5,Matriculation and FSc/ICS,6,B-,A,C,D,B-,78,76,2.6,3.2,2.9,2.8,2.6,2.5,4,4
+Male,CS,Home,GT3,Father,5,1,2,4,4,5,Together,Rural,Full time student,Yes,5,3.61,Matriculation and FSc/ICS,8,A-,B+,B+,B+,A,87,80,3,3,3,3,3,3,3,3
+Male,CS,Home,GT3,Father,1,3,3,3,4,1,Together,Rural,Full time student,No,2,2.45,Matriculation and FSc/ICS,8,D,C+,D,C+,D,80,70,3,3,2,2,2,2,2,2
+Male,CS,Hostel,GT3,Father,4,2,2,4,4,5,Abroad,Urban,Full time student,Yes,5,2.5,Matriculation and FSc/ICS,8,B+,C+,C,B+,B,79,74,2.1,2.5,2.3,2.3,2.4,2.4,2.5,
+Male,CS,Home,GT3,Father,1,3,2,4,4,5,Together,Urban,Full time student,Yes,5,2.71,Matriculation and FSc/ICS,8,A+,B+,C+,B+,B,88,78,2.72,2.93,3.43,2.5,2.6,2.2,2.6,
+Male,CS,Hostel,GT3,Father,4,3,2,4,4,4,Together,Urban,Full time student,No,3,3.13,Matriculation and FSc/ICS,8,B+,A,A,D,C+,77,70,3.56,3.52,3.56,3.37,3.22,3.16,3.13,
+Male,CS,Home,GT3,Father,4,3,1,2,2,5,Together,Urban,Full time student,No,2,3.6,Matriculation and FSc/ICS,8,A+,A+,A+,B+,C+,90,70,3.5,3.5,3.5,3.5,3.6,3.6,3.5,
+Male,CS,Home,GT3,Father,5,3,1,0,4,5,Together,Urban,Full time student,Yes,5,3.54,Matriculation and FSc/ICS,8,A+,A+,A,B+,A,90,80,3.62,3.56,3.79,3.13,3.43,3.54,3.56,
+Male,CS,Home,GT3,Father,4,2,2,3,3,5,Together,Urban,Full time student,No,5,2.3,Matriculation and FSc/ICS,6,B+,C+,B-,C+,B-,89,73,3.25,2.85,2.7,2.6,2.4,,,
+Male,CS,Hostel,GT3,Father,5,1,4,4,3,5,Together,Urban,Full time student,Yes,3,3.4,Matriculation and FSc/ICS,6,A+,A+,A+,A,A,75,75,3.58,3.78,3.36,3.29,3.1,,,
+Male,CS,Home,GT3,Father,4,4,2,4,2,4,Together,Urban,Full time student,No,3,3.03,Matriculation and FSc/ICS,8,B+,A,A,D,C+,85,75,3.25,3.85,3.07,2.91,1.97,2.91,2.54,
+Male,CS,Home,GT3,Father,5,2,1,2,4,4,Together,Urban,Full time student,Yes,5,2.5,Matriculation and FSc/ICS,8,B-,C-,C-,C-,C+,70,60,2.2,2.34,1.6,2.3,2.4,2.1,1.8,2.3
+Male,CS,Hostel,GT3,Father,5,4,2,3,3,5,Together,Urban,Full time student,No,2,2.68,Matriculation and FSc/ICS,6,B,C+,C+,A-,C,91,85,3.17,2.98,2.87,2.53,2.68,,,
+Male,CS,Home,GT3,Father,2,2,1,3,2,5,Together,Rural,Full time student,No,1,2.1,Matriculation and FSc/ICS,5,D,C,D,C-,A+,93,78,3,3.2,2.7,1.9,2.1,,,
+Male,CS,Hostel,GT3,Father,5,3,2,4,3,5,Together,Rural,Internship,No,4,2.72,Matriculation and FSc/ICS,5,D,B+,B+,B+,A+,75,52,2.52,1.78,2.53,2.72,,,,
+Male,CS,Home,LT3,Father,4,2,2,4,4,5,Together,Urban,Full time student,No,1,2.67,Matriculation and FSc/ICS,5,C+,C+,C+,C-,A+,85,75,2.34,2.87,3.3,2.1,2.4,2.7,2.2,2.5
+Male,CS,Home,GT3,Father,5,1,3,4,4,5,Abroad,Urban,Full time student,Yes,3,2.88,Matriculation and FSc/ICS,8,C,B,D,C+,B,78,70,2.97,3.27,2.43,2.06,2.5,2.84,3.2,
+Female,CS,Home,GT3,Father,4,3,3,3,4,5,Together,Urban,Full time student,Yes,4,3.42,Matriculation and FSc/ICS,8,A-,B+,A,A-,B+,86,82,3.25,3.42,2.98,3.82,3.57,3.54,3.19,
+Male,CS,Home,GT3,Father,4,3,1,2,2,5,Together,Urban,Full time student,No,2,3.57,Matriculation and FSc/ICS,8,A+,A+,A+,B+,C+,87,75,3.57,3.57,3.58,3.57,3.63,3.56,3.57,
+Female,CS,Home,GT3,Father,4,3,2,4,4,5,Together,Urban,Full time student,Yes,4,2.7,Matriculation and FSc/ICS,8,C+,B,B,A+,B,89,80,3.1,2.9,2.9,2.8,2.7,2.5,2.7,
+Female,CS,Home,GT3,Father,3,1,2,4,4,4,Together,Urban,Full time student,No,2,3.3,Matriculation and FSc/ICS,7,C+,A-,C+,A+,B+,82,65,3.3,3.7,3.5,3.4,3.5,3.3,,
+Female,CS,Home,GT3,Father,4,2,1,4,3,5,Together,Urban,Full time student,Yes,3,3.9,Matriculation and FSc/ICS,7,A-,A,A+,A,A+,77,82,3.77,3.79,4,3.91,3.95,3.96,,
+Female,CS,Home,GT3,Mother,2,3,2,3,3,1,Together,Urban,Full time student,Yes,2,3.1,Matriculation and FSc/ICS,7,B+,C+,B,A+,B,80,75,3.8,2.7,3.4,3.9,3,2.9,,
+Male,CS,Home,GT3,Father,4,2,2,4,3,5,Together,Urban,Full time student,Yes,4,2.22,Matriculation and FSc/ICS,8,C-,D,D,D,C,70,60,2.9,2.7,2.5,2.3,2.3,2.3,2.2,
+Male,CS,Home,GT3,Father,5,3,2,3,3,5,Together,Urban,Full time student,No,5,2.36,Matriculation and FSc/ICS,7,D,C+,C+,B+,C+,78,63,3.14,1.82,1.47,2.28,1.84,3.46,,
+Female,CS,Home,GT3,Mother,3,4,3,4,3,5,Abroad,Urban,Full time student,No,5,3.93,Matriculation and FSc/ICS,8,A+,A+,A+,A+,A+,86,80,3.73,3.91,4,3.95,4,3.91,4,
+Male,CS,Hostel,GT3,Father,5,1,4,4,4,5,Together,Urban,Full time student,Yes,3,3.4,Matriculation and FSc/ICS,8,A-,A-,A+,B+,A-,80,80,3.33,3.66,3.53,3.31,3.7,2.66,3.4,
+Male,CS,Home,GT3,Father,4,1,2,3,4,5,Together,Urban,Full time student,Yes,3,3.93,Matriculation and FSc/ICS,7,A-,A,A,A,A,92.18,79.45,3.86,4,4,4,3.72,4,,
+Female,CS,Home,GT3,Father,5,2,2,4,4,5,Together,Urban,Full time student,No,3,3.36,Matriculation and FSc/ICS,8,B,B+,B+,A-,A+,92,80,3.45,3.23,2.79,3.22,3.58,3.57,3.77,
+Male,CS,Hostel,GT3,Mother,2,2,3,0,0,3,Together,Urban,Full time student,No,3,2.78,Matriculation and FSc/ICS,8,A+,C+,C,A-,C,75,59,3.1,3,2.32,2.57,2.6,2.78,2.78,
+Male,CS,Home,GT3,Mother,5,4,4,4,4,5,Together,Urban,Full time student,Yes,5,2.6,Matriculation and FSc/ICS,7,C-,B+,C+,A-,B+,82,58,2.6,2.8,2.8,3.2,3,2.9,,
+Male,CS,Home,GT3,Father,5,2,1,4,4,4,Together,Urban,Full time student,No,3,2.5,Matriculation and FSc/ICS,7,C+,D,D,C-,B+,88,79,3.4,1.5,1.9,2.3,,3.4,,
+Male,CS,Hostel,GT3,Father,5,1,1,4,4,5,Together,Urban,Full time student,Yes,5,2.9,Matriculation and FSc/ICS,7,B+,B,C+,C,B+,95,76,3.3,3.19,3,2.9,2.6,2.8,,
+Male,CS,Home,GT3,Father,4,3,2,3,4,5,Together,Urban,Full time student,Yes,3,3.9,Matriculation and FSc/ICS,7,A+,A+,A+,A+,A-,82.56,82.4,3.88,3.78,3.96,3.95,3.94,3.88,,
+Female,CS,Home,GT3,Father,5,1,3,4,4,1,Together,Urban,Full time student,Yes,4,3.6,Matriculation and FSc/ICS,7,B+,A-,A-,A-,A+,76,75,3.56,3.07,3.46,3.7,3.84,3.53,3.9,
+Male,CS,Home,GT3,Father,5,4,3,4,4,4,Together,Urban,Full time student,No,1,3.14,Matriculation and FSc/ICS,7,C+,A-,C+,A-,B+,80,75,3,3.18,3.2,3.39,2.81,3.27,,
+Male,CS,Home,GT3,Father,4,3,2,4,4,5,Together,Urban,Full time student,Yes,5,3.5,Matriculation and FSc/ICS,8,B+,A,A,C+,C+,87,69,3.38,3.68,3.32,3.39,3.8,3.5,3.46,
+Female,CS,Home,GT3,Father,5,2,2,3,3,5,Together,Urban,Full time student,No,1,2.29,Matriculation and FSc/ICS,8,C+,C,C+,C-,B-,89,60,2.5,2.5,3,2,1.89,2.02,2.29,2.29
+Female,CS,Home,GT3,Father,4,4,2,4,4,4,Together,Urban,Full time student,No,4,3.54,O and A levels,7,C+,A-,C+,B+,A-,86,82,3.47,3.57,3.79,3.13,3.27,3.53,,
+Female,CS,Hostel,GT3,Father,5,1,2,1,3,5,Together,Rural,Full time student,Yes,5,2.3,Matriculation and FSc/ICS,8,B+,C-,D,C+,B,87,70,3.03,2.6,1.94,1.86,1.34,1.9,2.3,
+Male,CS,Home,GT3,Father,4,4,3,3,0,3,Abroad,Rural,Full time student,Yes,1,2.8,Matriculation and FSc/ICS,7,C,B,C,A-,D,85,80,2.88,3.44,2.18,2.31,2.36,2.69,,
+Female,CS,Home,GT3,Father,2,4,2,4,4,4,Abroad,Urban,Full time student,Yes,3,3.56,Matriculation and FSc/ICS,8,B,A+,A+,B+,A+,80,74,3.5,3.43,3.38,3.45,3.47,4,3.69,
+Male,CS,Home,GT3,Father,5,3,1,3,3,5,Together,Urban,Full time student,No,1,3.72,Matriculation and FSc/ICS,8,A-,A,A+,A+,B+,87,72,3.64,3.63,3.72,3.94,3.64,3.63,3.84,
+Male,CS,Home,GT3,Father,4,3,2,2,3,4,Abroad,Rural,Job,Yes,4,2.9,Matriculation and FSc/ICS,7,A+,A,A+,A+,C-,65,55,2.45,2.38,2.8,3.4,3.14,2.9,,
+Male,CS,Home,LT3,Father,4,4,4,3,2,4,Together,Rural,Job,Yes,2,3.54,Matriculation and FSc/ICS,7,C+,A+,B-,C+,A+,83,65,3.72,3.51,3.45,3.41,3.45,3.36,3.37,
+Male,CS,Home,LT3,Mother,2,2,1,0,0,1,Together,Urban,Full time student,Yes,1,2.5,Matriculation and FSc/ICS,7,C+,D,C+,B,D,80,62,3,2.2,2.6,2.9,2.5,2.6,,
+Female,CS,Hostel,GT3,Father,5,1,3,2,2,5,Together,Rural,Full time student,No,3,3.52,Matriculation and FSc/ICS,7,A+,B+,A+,A+,B+,80,70,3.63,3.18,3.06,3.81,3.84,3.62,,
+Male,CS,Hostel,GT3,Father,5,2,2,0,0,5,Together,Urban,Full time student,No,2,3,Matriculation and FSc/ICS,8,B+,C+,B,D,C,81,75,3.5,3.4,3.3,3.2,3.1,3,2.9,3
+Male,CS,Hostel,GT3,Father,4,3,4,3,4,5,Together,Urban,Full time student,Yes,4,2.69,Matriculation and FSc/ICS,8,C-,B,B+,C-,A-,80,73,2.53,3.31,1.88,2.34,2.63,3.43,2.67,
+Male,CS,Home,GT3,Father,5,2,4,3,3,5,Together,Urban,Full time student,Yes,5,3.79,Matriculation and FSc/ICS,8,A,B+,A+,A+,A+,84,63,3.48,4.68,3.65,3.91,3.91,3.96,4,
+Male,CS,Home,GT3,Father,4,1,1,3,3,5,Together,Urban,Full time student,Yes,3,2.7,Matriculation and FSc/ICS,8,C+,C+,A,C+,C,85,62,3.13,3.03,2.8,2.7,2.24,2.8,3.1,
+Male,CS,Home,LT3,Father,5,2,3,4,4,4,Together,Urban,Full time student,No,3,3.23,O and A levels,8,C+,A+,A+,A+,A-,80,78,3.57,3.13,3.13,3.13,3.24,3,3.35,
+Male,CS,Hostel,GT3,Father,5,2,4,2,3,5,Together,Rural,Full time student,No,2,3.37,Matriculation and FSc/ICS,Graduated,A-,A,A+,B+,B+,83,82,3.66,3.64,3.52,3.54,3.39,3.34,3.39,3.37
+Male,CS,Hostel,GT3,Father,4,2,3,1,2,4,Together,Urban,Full time student,Yes,3,2.84,Matriculation and FSc/ICS,8,B,A-,C+,C+,C,67,54,3.1,3.3,3.1,2.9,2.87,2.84,2.82,2.76
+Male,CS,Home,GT3,Father,5,1,3,4,4,5,Together,Urban,Full time student,Yes,2,3.46,Matriculation and FSc/ICS,7,B+,A+,A+,A+,C+,75,55,3.61,3.13,3.82,3.63,3.78,2.75,,
+Male,CS,Home,GT3,Father,5,2,4,4,4,5,Together,Urban,Full time student,Yes,4,3.69,Matriculation and FSc/ICS,8,A,A-,B+,A,A,90,80,2.88,3.48,3.71,3.67,3.77,3.85,3.63,
+Female,CS,Hostel,GT3,Father,3,1,1,2,3,5,Together,Rural,Full time student,No,1,3.43,Matriculation and FSc/ICS,7,,,,,,89,73,3.34,2.96,3.48,3.75,3.66,3.25,,
+Male,CS,Home,GT3,Father,5,3,2,3,2,1,Together,Rural,Full time student,Yes,3,3.5,Matriculation and FSc/ICS,8,B,B-,C+,C,C-,80,80,3,3,3,3,2.5,2.5,2.4,2.5
+Female,CS,Home,GT3,Grandparents,5,2,1,4,4,5,Together,Urban,Full time student,No,2,2.86,Matriculation and FSc/ICS,8,A,C+,D,A-,C+,86,79,2.69,2.68,2.72,2.88,2.86,2.84,2.88,2.84
+Male,CS,Home,GT3,Mother,5,2,4,2,4,5,Together,Urban,Full time student,No,1,3.37,Matriculation and FSc/ICS,5,B+,B-,A-,A,A,68,65,2.62,3.11,3.48,3.82,3.87,,,
+Male,SE,Hostel,GT3,Father,4,2,3,0,4,5,Together,Rural,Internship,Yes,2,3.61,Matriculation and FSc/ICS,Graduated,A+,A-,A-,B+,A-,78,75,3.84,3.77,3.06,3.88,3.55,3.67,3.26,3.75
+Female,SE,Home,GT3,Father,5,3,3,3,4,5,Together,Urban,Full time student,No,2,3.1,Matriculation and FSc/ICS,5,B+,A,A,A+,B+,71,67,3.7,3.4,3.1,3.1,,,,
+Male,CS,Hostel,GT3,Father,5,3,4,0,1,5,Together,Rural,Full time student,Yes,4,2.75,Matriculation and FSc/ICS,6,C+,B-,A,A,A,67,65,1.68,1.97,2.3,2.57,2.5,,,
+Female,CS,Home,GT3,Mother,4,2,1,4,2,4,Abroad,Urban,Full time student,No,4,3.68,Matriculation and FSc/ICS,7,A,B,B+,A,A,89,63,3.64,3.67,3.61,3.67,3.71,3.68,,
+Male,CS,Home,LT3,Father,5,3,3,2,3,5,Together,Urban,Full time student,No,4,2.84,Matriculation and FSc/ICS,7,B-,C-,D,A-,B+,73,70,2.96,2.18,2.13,3.22,3.2,3.58,,
+Male,SE,Home,GT3,Grandparents,4,4,3,0,0,5,Together,Urban,Full time student,No,1,3.45,Matriculation and FSc/ICS,5,B+,A,A,A,B,70,73,3.25,3.29,3.52,3.76,,,,
+Male,CS,Home,GT3,Father,5,3,4,4,4,5,Together,Urban,Internship,Yes,3,3.41,Matriculation and FSc/ICS,6,A+,A,A-,A,A,70,80,3,3.21,3.24,3.33,3.41,,,
+Male,CS,Hostel,GT3,Mother,5,3,2,4,2,5,Together,Rural,Job,Yes,1,3.63,Matriculation and FSc/ICS,6,A,A,A,B,A,72,80,3.8,3.74,3.63,3.8,3.63,,,
+Male,SE,Hostel,GT3,Father,5,2,1,4,4,5,Together,Urban,Internship,Yes,3,3.38,Matriculation and FSc/ICS,Graduated,B,A,A,A,A,54,54,3.68,3.58,2.82,3.02,3.18,3.67,3.26,3.85
+Male,CS,Hostel,GT3,Father,5,1,3,4,4,5,Together,Rural,Job,Yes,3,3.7,Matriculation and FSc/ICS,7,A+,A+,A+,A+,A+,70,80,3.49,3.77,3.55,4,3.82,3.63,,
+Male,CS,Home,GT3,Mother,5,4,3,4,3,4,Together,Rural,Internship,No,2,2.56,Matriculation and FSc/ICS,7,C+,B+,B,B-,B,44,62,2.76,2.67,3.02,2.7,2.5,2.4,,
+Male,CS,Home,GT3,Father,5,2,1,4,4,4,Together,Urban,Internship,Yes,3,3.31,Matriculation and FSc/ICS,Graduated,B,B+,A-,A,C,84,73,3.34,3.54,2.73,3.66,2.97,2.98,3.04,3.25
+Female,CS,Home,GT3,Father,4,4,1,0,0,5,Together,Rural,Full time student,Yes,3,3.2,Matriculation and FSc/ICS,Graduated,A,C+,A,A-,A-,90,81,3,2.9,3.2,3,2.5,3.4,3.6,3.9
+Female,CS,Home,GT3,Mother,4,1,1,4,4,5,Together,Urban,Job,Yes,2,3.3,Matriculation and FSc/ICS,Graduated,D,B+,B+,B+,A,95,88,3.1,3.1,3.2,3.1,3.4,3.7,3.5,3.45
+Male,SE,Home,GT3,Father,4,2,2,3,3,5,Together,Urban,Internship,Yes,3,3,Matriculation and FSc/ICS,Graduated,B+,C+,C+,B,B,100,100,2.7,2.8,2.9,3,3.1,3.2,3.3,3
+Male,CS,Home,GT3,Mother,3,1,2,4,4,5,Together,Urban,Full time student,Yes,2,3.62,Matriculation and FSc/ICS,8,B+,A,A,A-,A,90,70,3.58,3.53,3.64,3.42,3.7,3.62,3.93,
+Male,CS,Hostel,GT3,Father,4,4,2,0,0,4,Together,Rural,Full time student,Yes,3,3,Matriculation and FSc/ICS,7,B,B,B,B+,C+,91.08,98.2,3,3.1,3.21,2.9,3.05,3.02,,
+Male,CS,Home,GT3,Father,5,1,1,0,0,5,Together,Urban,Job,Yes,5,3.3,Matriculation and FSc/ICS,Graduated,A,B,A,B,A+,85,60,3.5,3.8,3.5,3.8,3.4,3.8,3.9,3.5
+Male,CS,Home,GT3,Father,2,4,2,2,4,3,Together,Rural,Full time student,No,5,2.3,Matriculation and FSc/ICS,3,A+,D,,,,93,70,2.8,2.3,,,,,,
+Male,CS,Hostel,GT3,Father,3,4,3,3,1,5,Together,Rural,Full time student,No,2,2.92,Matriculation and FSc/ICS,2,C+,C+,,,,80,75,2.75,3.09,,,,,,
+Male,CS,Home,LT3,Mother,5,2,2,0,4,5,Together,Urban,Internship,Yes,5,3.68,Matriculation and FSc/ICS,5,A+,B+,A+,A,A+,93.3,97,3.68,3.52,3.79,3.75,,,,
+Male,CS,Home,GT3,Father,3,3,1,3,3,4,Together,Urban,Job,Yes,3,2.13,Matriculation and FSc/ICS,8,D,B+,D,C+,D,83,63,2.91,3.18,1.24,1.81,1.34,2.16,2.08,1.7
+Female,CS,Hostel,GT3,Father,5,4,2,4,2,5,Together,Urban,Full time student,No,1,3.5,O and A levels,7,A+,A,A,A,A,89,95,3.5,3.3,3.7,3.8,3.88,3,3.78,3.8
+Male,CS,Hostel,GT3,Father,3,2,2,4,4,4,Together,Urban,Full time student,Yes,2,2.3,Matriculation and FSc/ICS,2,D,D,,,,80,80,2.5,1.85,,,,,,
+Male,CS,Hostel,GT3,Father,4,1,1,3,4,5,Together,Rural,Full time student,No,3,3.2,Matriculation and FSc/ICS,4,B+,A-,B,B,B+,67,78,2.8,3,3.2,,,,,
+Male,DS,Home,LT3,Father,3,3,2,4,4,5,Abroad,Urban,Job,Yes,5,2.9,Matriculation and FSc/ICS,6,A-,B,B-,B,B-,88,76,3,2.9,3.2,2.7,3.3,,,
+Male,SE,Home,LT3,Mother,2,4,2,4,0,3,Together,Urban,Internship,Yes,4,3,O and A levels,3,B,B,B,B,B,64,75,2.4,2.6,,,,,,
+Female,CS,Home,GT3,Father,4,3,3,4,2,4,Together,Urban,Full time student,No,4,3.5,Matriculation and FSc/ICS,5,B+,A-,A+,A-,A,94,92,3.8,3.2,3.7,3.6,3.4,,,
+Male,DS,Hostel,GT3,Grandparents,4,2,2,0,3,4,Together,Urban,Full time student,No,5,3.8,O and A levels,5,B,B+,B+,A-,B+,88,67,2.7,2.9,3,3.5,,,,
+Male,CS,Home,GT3,Father,3,3,2,3,4,3,Abroad,Rural,Job,No,4,3.4,Matriculation and FSc/ICS,3,B,B,B,B,B,69,88,3.4,3.5,,,,,,
+Male,SE,Hostel,GT3,Father,4,4,1,0,3,3,Together,Urban,Internship,No,5,3.22,Matriculation and FSc/ICS,Graduated,B+,C,B,B,B+,95,90,3.06,3.25,3.16,3.44,3.12,3.16,3.16,3.44
+Female,CS,Hostel,LT3,Father,4,1,3,3,4,5,Together,Urban,Full time student,No,2,3.51,Matriculation and FSc/ICS,Graduated,A,B+,A,A-,A,88,76,3.8,3.4,3.34,3.5,3.41,3.31,3.71,3.7
+Male,CS,Hostel,GT3,Father,5,1,3,4,4,4,Together,Urban,Full time student,No,3,3.6,Matriculation and FSc/ICS,6,A+,A,A-,A,B+,89,85,3.8,3.57,3.34,3.5,3.67,3.72,,
+Male,CS,Home,GT3,Father,4,2,2,3,4,4,Together,Urban,Full time student,Yes,3,3.41,Matriculation and FSc/ICS,7,A,B+,A-,A,B,85,79,3.51,3.6,3.28,3.31,3.41,3.56,3.21,
+Female,SE,Home,LT3,Father,3,3,2,4,4,3,Together,Urban,Full time student,No,3,2.9,Matriculation and FSc/ICS,Graduated,B-,C+,B,C+,B,96,87,2.9,3.1,3.2,2.5,3.3,3.1,2.5,2.9
+Female,SE,Home,GT3,Father,5,3,3,4,4,5,Together,Urban,Full time student,Yes,3,3.071,Matriculation and FSc/ICS,Graduated,C,C+,C+,B+,B+,90.9,87.6,2.767,2.9,3.067,2.956,3.112,3.4,3.34,3.031
+Female,DS,Home,GT3,Father,5,3,3,4,4,5,Together,Urban,Internship,No,3,3.87,Matriculation and FSc/ICS,Graduated,A+,A,A,A-,A+,95,88,3.9,3.71,3.8,3.85,3.94,3.86,3.91,3.96
+Male,SE,Hostel,GT3,Father,4,2,2,3,4,4,Abroad,Urban,Full time student,Yes,4,3.19,Matriculation and FSc/ICS,6,A,B+,A-,B,B+,88,77,2.9,3.06,3.31,3.4,3.21,,,
+Male,CS,Hostel,GT3,Father,5,2,3,3,4,5,Together,Urban,Full time student,No,5,3.6,Matriculation and FSc/ICS,2,B+,A,A-,B,A,94,65,3.9,3.5,,,,,,
+Female,DS,Home,GT3,Father,5,2,3,3,4,4,Together,Urban,Full time student,No,3,3.4,Matriculation and FSc/ICS,8,B-,B,A-,B+,A-,80,75,3,3.2,3.1,3.3,3.4,3.5,3.6,3.7
+Female,CS,Home,GT3,Father,4,3,2,3,3,4,Together,Urban,Full time student,No,3,2.8,Matriculation and FSc/ICS,7,C+,B-,C+,B-,C+,70,70,2.5,2.7,2.8,2.8,2.9,3,3.1,
+Male,CS,Home,GT3,Father,5,2,2,3,4,5,Together,Urban,Internship,Yes,5,3.75,Matriculation and FSc/ICS,6,B+,A-,A,A,B+,80,80,3.5,3.7,3.6,3.8,3.8,3.8,,
+Male,SE,Hostel,GT3,Father,5,2,2,4,4,5,Together,Urban,Internship,Yes,5,2.7,Matriculation and FSc/ICS,8,C+,C+,B-,B-,C,65,65,2.8,2.9,2.7,2.6,2.5,2.7,2.8,2.9
+Female,SE,Hostel,GT3,Father,4,1,3,3,4,5,Abroad,Urban,Full time student,Yes,3,3.55,Matriculation and FSc/ICS,8,B+,A-,A,A-,A-,85,80,3.2,3.4,3.3,3.5,3.6,3.8,3.7,3.8
+Male,DS,Hostel,GT3,Father,5,3,3,4,4,5,Together,Urban,Full time student,Yes,5,3.15,Matriculation and FSc/ICS,6,C+,C,B-,C+,B,70,65,2.9,3,3.1,3.3,3.2,3.4,,
+Male,CS,Home,GT3,Father,5,3,3,3,4,4,Together,Urban,Full time student,Yes,4,2.64,Matriculation and FSc/ICS,8,C,B-,B-,C+,C+,75,70,2.7,2.8,2.6,2.5,2.4,2.6,2.7,2.8
+Male,SE,Hostel,GT3,Father,5,2,2,4,4,5,Together,Urban,Full time student,Yes,5,2.85,Matriculation and FSc/ICS,6,C+,C+,B-,C-,C-,73,67,2.6,2.7,2.8,2.8,3,3.1,,
+Female,SE,Hostel,GT3,Mother,4,1,3,4,3,4,Abroad,Urban,Full time student,Yes,4,3.5,Matriculation and FSc/ICS,5,B,B+,B+,C+,C,79,83,3.3,3.4,3.5,3.5,3.6,,,
+Male,DS,Hostel,GT3,Father,4,3,2,4,4,5,Abroad,Urban,Internship,Yes,4,2.91,Matriculation and FSc/ICS,7,C+,B+,A,B-,C+,81,78,2.6,2.7,2.8,2.9,2.9,3.1,3,
+Female,CS,Home,GT3,Father,4,4,3,3,3,5,Together,Urban,Full time student,Yes,2,2.82,Matriculation and FSc/ICS,5,C+,B+,A-,B,C,79,76,2.9,3,2.8,2.7,2.6,,,
+Male,SE,Home,GT3,Father,5,3,3,3,3,5,Together,Urban,Full time student,Yes,4,3.45,Matriculation and FSc/ICS,8,B+,B+,A-,C+,B-,83,72,3.2,3.4,3.3,3.5,3.6,3.7,3.6,3.8
+Male,CS,Home,LT3,Father,4,3,2,3,4,5,Abroad,Urban,Internship,Yes,4,3.16,Matriculation and FSc/ICS,8,B-,C+,C+,B+,B+,80,73,2.9,2.8,3,3.1,3.2,3.3,3.4,3.5
+Female,CS,Home,GT3,Father,5,2,3,4,4,5,Abroad,Urban,Internship,Yes,2,3.46,Matriculation and FSc/ICS,8,B+,B-,A-,B-,B-,88,83,3.1,3.2,3.3,3.4,3.5,3.6,3.7,3.8
+Male,CS,Home,GT3,Father,5,1,2,3,3,5,Together,Rural,Full time student,Yes,5,2.86,Matriculation and FSc/ICS,8,C+,B-,C+,B+,B+,70,68,2.5,2.6,2.7,2.8,2.9,3,3.1,3.2
+Female,CS,Home,GT3,Mother,5,2,2,3,4,4,Abroad,Urban,Full time student,Yes,5,2.62,Matriculation and FSc/ICS,6,C+,B+,C+,B,C,70,65,2.7,2.8,2.6,2.5,2.4,2.6,,
+Male,CS,Home,GT3,Father,5,2,3,4,4,5,Together,Urban,Full time student,Yes,5,3.35,Matriculation and FSc/ICS,6,B+,A-,B-,B-,C+,79,71,3.1,3.2,3.3,3.4,3.4,3.5,,
+Male,CS,Hostel,GT3,Father,5,2,2,3,4,5,Together,Urban,Job,Yes,3,2.86,Matriculation and FSc/ICS,8,B+,B+,B-,C+,C-,70,68,2.5,2.6,2.7,2.6,2.8,2.9,3,3.1
+Female,SE,Home,GT3,Father,5,3,2,3,4,5,Together,Urban,Internship,Yes,2,2.85,Matriculation and FSc/ICS,8,B+,B+,B-,C+,C+,85,79,2.5,2.7,2.6,2.8,2.9,3,3.1,3.2
+Male,CS,Home,GT3,Father,5,3,2,3,4,5,Together,Urban,Internship,Yes,4,3.3,Matriculation and FSc/ICS,8,B+,B+,B-,A-,C,79,71,3,3,3.1,3.2,3.3,3.4,3.5,3.6
+Male,CS,Home,GT3,Grandparents,5,2,2,3,3,5,Together,Urban,Full time student,Yes,4,3.05,Matriculation and FSc/ICS,6,C+,B,B-,A-,C+,80,74,2.8,2.9,3,3.1,3.2,3.3,,
+Female,DS,Hostel,GT3,Mother,5,2,2,4,4,5,Abroad,Urban,Internship,Yes,3,3.54,O and A levels,8,C+,B+,B+,A,B,86,83,3.1,3.2,3.3,3.4,3.5,3.6,3.7,3.8
+Female,CS,Home,GT3,Father,5,2,2,3,4,5,Together,Urban,Internship,Yes,3,2.96,Matriculation and FSc/ICS,8,B+,A-,C+,C,B+,76,68,2.6,2.7,2.8,2.9,3,3.1,3.2,3.3
+Male,CS,Home,GT3,Father,5,2,2,3,3,5,Together,Urban,Internship,Yes,4,2.86,Matriculation and FSc/ICS,8,B,A-,B+,C+,D,71,63,3.1,3,2.7,2.9,2.8,3,2.9,3.3
+Male,CS,Home,GT3,Father,5,2,2,4,4,5,Together,Urban,Internship,Yes,3,3.15,Matriculation and FSc/ICS,8,C+,B+,B,C+,C+,76,71,2.8,2.9,3,3.1,3.2,3.3,3.4,3.5
+Male,CS,Home,GT3,Father,5,2,3,3,3,5,Together,Urban,Internship,Yes,4,3.6,Matriculation and FSc/ICS,8,B+,A-,A-,B+,B+,79,80,3.4,3.4,3.5,3.5,3.3,0.36,3.5,3.7
+Male,SE,Home,GT3,Father,5,2,2,3,3,5,Together,Urban,Full time student,Yes,5,3,Matriculation and FSc/ICS,5,C+,B,B,B,C,78,71,2.8,2.9,3,3.1,3.2,,,
+Male,CS,Home,GT3,Grandparents,5,3,2,4,4,5,Abroad,Urban,Full time student,Yes,5,3,Matriculation and FSc/ICS,5,C+,B,B,B,C,74,70,2.8,2.9,3,3.1,3.2,,,
+Female,SE,Home,LT3,Grandparents,5,2,3,4,4,5,Abroad,Urban,Full time student,Yes,3,3.27,Matriculation and FSc/ICS,6,B+,B+,B,A-,B,83,79,3,3.2,3.1,3.3,3.4,3.5,,
